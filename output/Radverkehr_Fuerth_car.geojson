@@ -1,0 +1,964 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Pestalozzistraße",
+				"Shape_Leng": 146.50352002,
+				"von": "Flurstraße",
+				"bis": "Poppenreuther STraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.001738913999207,
+						49.4811105751271
+					],
+					[
+						11.001369664995588,
+						49.48200966914027
+					],
+					[
+						11.001065051555596,
+						49.482341254556
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Jakobinenstraße",
+				"Shape_Leng": 105.937211101,
+				"von": "Nürnberger Straße",
+				"bis": "Lange Straße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.002736703160517,
+						49.470020946503794
+					],
+					[
+						11.00202054815658,
+						49.469190684196676
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Lange Straße",
+				"Shape_Leng": 78.21127618,
+				"von": "Meckstraße",
+				"bis": "Jakobinenstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.002796450377845,
+						49.470051960328526
+					],
+					[
+						11.003756466381093,
+						49.46973097702624
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Lange Straße",
+				"Shape_Leng": 108.988345534,
+				"von": "Spiegelstraße",
+				"bis": "Meckstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.003756466381093,
+						49.46973097702624
+					],
+					[
+						11.00417827537176,
+						49.46958159099757
+					],
+					[
+						11.004594125988183,
+						49.469402566880824
+					],
+					[
+						11.005002523117552,
+						49.46918744889815
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Johannisstraße",
+				"Shape_Leng": 146.875486721,
+				"von": "Dambacher Straße",
+				"bis": "Schwabacher Straße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.986625617988317,
+						49.46922245915294
+					],
+					[
+						10.984659045191565,
+						49.46954057648881
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Pfisterstraße",
+				"Shape_Leng": 166.289374338,
+				"von": "Mathildenstraße",
+				"bis": "Blumenstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.983727542016098,
+						49.47691193912997
+					],
+					[
+						10.982889711880494,
+						49.47552012878255
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Bogenstraße",
+				"Shape_Leng": 229.441268145,
+				"von": "Blumenstraße",
+				"bis": "Weiherstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.982839495969545,
+						49.477420590368766
+					],
+					[
+						10.98273636744263,
+						49.477284672510805
+					],
+					[
+						10.982673612179209,
+						49.47719672818899
+					],
+					[
+						10.982815891004975,
+						49.47704261470682
+					],
+					[
+						10.982552110803217,
+						49.47634762855184
+					],
+					[
+						10.982467340227798,
+						49.476123546544024
+					],
+					[
+						10.982370291387273,
+						49.476012643091465
+					],
+					[
+						10.981510904344852,
+						49.47601479110476
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Mathildenstraße",
+				"Shape_Leng": 98.8662350814,
+				"von": "Pfisterstraße",
+				"bis": "Theaterstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.984145325685748,
+						49.47520934204272
+					],
+					[
+						10.982872081776511,
+						49.47552830482422
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Marienstraße",
+				"Shape_Leng": 250.631517868,
+				"von": "Theaterstraße",
+				"bis": "Ottostraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.982492842785161,
+						49.474541654238436
+					],
+					[
+						10.985480859459512,
+						49.47340749606003
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Hardstraße",
+				"Shape_Leng": 57.1721982926,
+				"von": "Lehmusstraße",
+				"bis": "Gutenbergstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.975543062763254,
+						49.47854609348009
+					],
+					[
+						10.97571950431969,
+						49.47856955978249
+					],
+					[
+						10.975930346682969,
+						49.478598186409705
+					],
+					[
+						10.976114739505423,
+						49.47863637436653
+					],
+					[
+						10.976303873305982,
+						49.4786750526422
+					],
+					[
+						10.97630420446306,
+						49.47867395760145
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Gutenbergstraße",
+				"Shape_Leng": 128.184886199,
+				"von": null,
+				"bis": null,
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.976646797163582,
+						49.47754107505859
+					],
+					[
+						10.97644570486568,
+						49.47820605195346
+					],
+					[
+						10.976369256683093,
+						49.478458847705774
+					],
+					[
+						10.976329612091067,
+						49.4785899417615
+					],
+					[
+						10.976291090326708,
+						49.47866950890808
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Hardstraße",
+				"Shape_Leng": 105.203465487,
+				"von": "Gutenbergstraße",
+				"bis": "Cadolzburger Straße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.97632822783806,
+						49.47867898385667
+					],
+					[
+						10.97656532008643,
+						49.4787403471866
+					],
+					[
+						10.976777581210174,
+						49.47878922853634
+					],
+					[
+						10.976983230550546,
+						49.478854400211794
+					],
+					[
+						10.977173158419074,
+						49.47892147617944
+					],
+					[
+						10.977344862178816,
+						49.47899514585399
+					],
+					[
+						10.977522458034292,
+						49.479074578320414
+					],
+					[
+						10.977611306813163,
+						49.47911186168733
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Frauenstraße",
+				"Shape_Leng": 141.572977777,
+				"von": "südl. Kaiserstraße",
+				"bis": null,
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.996162626563692,
+						49.46423478578427
+					],
+					[
+						10.996347701281577,
+						49.4639058122678
+					],
+					[
+						10.996449936678811,
+						49.46381224794967
+					],
+					[
+						10.996872305006653,
+						49.46305303574801
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Theaterstraße",
+				"Shape_Leng": 124.095622386,
+				"von": "Mathildenstraße",
+				"bis": "Marienstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.983479558724854,
+						49.47415776801428
+					],
+					[
+						10.984135077228563,
+						49.47518846305579
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Mohrenstraße",
+				"Shape_Leng": 91.7828818083,
+				"von": "Lilienstraße",
+				"bis": "Obstmarkt",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.987844180639803,
+						49.478018560325005
+					],
+					[
+						10.987788503368288,
+						49.478044559169085
+					],
+					[
+						10.98746655082479,
+						49.478133095671375
+					],
+					[
+						10.987115289431921,
+						49.478225154151225
+					],
+					[
+						10.986992518897319,
+						49.478230957733984
+					],
+					[
+						10.98685726556078,
+						49.47821759291358
+					],
+					[
+						10.986745657738785,
+						49.478190731969654
+					],
+					[
+						10.986666820785352,
+						49.478161112826434
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Busspur Bahnhofplatz",
+				"Shape_Leng": 73.9589170084,
+				"von": "SW-Quadrant",
+				"bis": null,
+				"Bemerkung": null,
+				"Typ": "Mitbenutzung Busspur",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.989506923792215,
+						49.47075743133071
+					],
+					[
+						10.98955962127908,
+						49.47069432459175
+					],
+					[
+						10.98959759943895,
+						49.47065111098099
+					],
+					[
+						10.989673011589897,
+						49.47057693560291
+					],
+					[
+						10.989820576620373,
+						49.470530263459736
+					],
+					[
+						10.99032125343322,
+						49.47041092591084
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Busspur Bahnhofplatz",
+				"Shape_Leng": 73.9853164235,
+				"von": "SO-Quadrant",
+				"bis": null,
+				"Bemerkung": null,
+				"Typ": "Mitbenutzung Busspur",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.991410395918152,
+						49.47031978478441
+					],
+					[
+						10.99118680471241,
+						49.470285861469655
+					],
+					[
+						10.991035376915296,
+						49.470264747605626
+					],
+					[
+						10.990829097811949,
+						49.47029796735839
+					],
+					[
+						10.99059914658867,
+						49.47034620583754
+					],
+					[
+						10.990430022541823,
+						49.47039040699489
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Lange Straße",
+				"Shape_Leng": 140.55484955,
+				"von": "Kurgartenstraße",
+				"bis": "Geierstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.008481933751536,
+						49.46774910917459
+					],
+					[
+						11.01012179112739,
+						49.467074797270996
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Lange Straße",
+				"Shape_Leng": 82.8568097102,
+				"von": "Geierstraße",
+				"bis": "Lobitzstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.00751522005247,
+						49.468146603670576
+					],
+					[
+						11.008481933751536,
+						49.46774910917459
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Lange Straße",
+				"Shape_Leng": 138.182998073,
+				"von": "Lobitzstraße",
+				"bis": "Finkenstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.005902854092787,
+						49.468809384594195
+					],
+					[
+						11.006013926014358,
+						49.46876387861223
+					],
+					[
+						11.00751522005247,
+						49.468146603670576
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Lange Straße",
+				"Shape_Leng": 77.6829424049,
+				"von": "Finkenstraße",
+				"bis": "Spiegelstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.005002523117527,
+						49.46918744889809
+					],
+					[
+						11.00508117883292,
+						49.46914601761776
+					],
+					[
+						11.005902854092787,
+						49.468809384594195
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Mathildenstraße",
+				"Shape_Leng": 82.4489011262,
+				"von": "Badstraße",
+				"bis": "Pfisterstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.982872081776511,
+						49.47552830482427
+					],
+					[
+						10.981773853349791,
+						49.47572159518888
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Marienstraße",
+				"Shape_Leng": 98.7728671072,
+				"von": "Theaterstraße",
+				"bis": "Ottostraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.98677699515941,
+						49.47291304382738
+					],
+					[
+						10.985599917243187,
+						49.47336053393957
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Flurstraße",
+				"Shape_Leng": 98.4110318756,
+				"von": "Frühlingstraße",
+				"bis": "Laubenweg",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.00214489858758,
+						49.48287775864051
+					],
+					[
+						11.001689533706314,
+						49.48264857426707
+					],
+					[
+						11.001065051555596,
+						49.48234125455607
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Theaterstraße",
+				"Shape_Leng": 113.696756231,
+				"von": "Marienstraße",
+				"bis": "Theresienstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.983363222041776,
+						49.47314614464335
+					],
+					[
+						10.98348232135001,
+						49.474165405101616
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Pfisterstraße",
+				"Shape_Leng": 130.153793756,
+				"von": "Theresienstraße",
+				"bis": "Marienstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.982494863741959,
+						49.47453726962016
+					],
+					[
+						10.982473208727662,
+						49.47446256205356
+					],
+					[
+						10.982424501682367,
+						49.47399394558685
+					],
+					[
+						10.982431847664634,
+						49.47374467691709
+					],
+					[
+						10.982460789149393,
+						49.47337001392806
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Pfisterstraße",
+				"Shape_Leng": 113.033690899,
+				"von": "Marienstraße",
+				"bis": "Mathildenstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.982889711880494,
+						49.47552012878255
+					],
+					[
+						10.982879206478191,
+						49.47550267658764
+					],
+					[
+						10.98251137126706,
+						49.47459421872801
+					],
+					[
+						10.982494863741957,
+						49.4745372696202
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Kaiserstraße",
+				"Shape_Leng": 86.3867826501,
+				"von": "Leyher Straße",
+				"bis": "Karolinenstraße",
+				"Bemerkung": null,
+				"Typ": "Einbahnstraße frei",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.002623362982328,
+						49.46640869355156
+					],
+					[
+						11.00191594183163,
+						49.46578367066141
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"LAGE": "Heilstättenstraße",
+				"Shape_Leng": 437.143358061,
+				"von": "Paul-Keller-Straße",
+				"bis": "Graf-Stauffenberg-Brücke",
+				"Bemerkung": null,
+				"Typ": "Mitbenutzung Busspur",
+				"designation": "car"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						10.946345976241467,
+						49.467176772270314
+					],
+					[
+						10.94670066079358,
+						49.467286653743095
+					],
+					[
+						10.947168687299365,
+						49.46742988433697
+					],
+					[
+						10.947666879478126,
+						49.467553996242565
+					],
+					[
+						10.948032523257078,
+						49.467615495324395
+					],
+					[
+						10.948487826287726,
+						49.46765841704439
+					],
+					[
+						10.948839496518362,
+						49.467677772314914
+					],
+					[
+						10.949425158944457,
+						49.46765400560569
+					],
+					[
+						10.949912282911725,
+						49.46760025474803
+					],
+					[
+						10.950653434829144,
+						49.46749386463665
+					],
+					[
+						10.951190618197998,
+						49.46741793941263
+					],
+					[
+						10.951608326790224,
+						49.46736355207353
+					],
+					[
+						10.952184619646422,
+						49.46731383157341
+					]
+				]
+			}
+		}
+	],
+	"bbox": [
+		10.900775467766204,
+		49.435969839294756,
+		11.025070125994253,
+		49.53853613562004
+	]
+}

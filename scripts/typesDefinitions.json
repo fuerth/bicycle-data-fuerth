@@ -1,0 +1,106 @@
+[{
+	"type": "gemeinsamer Rad-und Fußweg",
+	"designation": "pedestrian",
+	"color": "green",
+	"active": true
+}, {
+	"type": "gemeinsamer Rad- und Fußweg (2 Richtungen)",
+	"designation": "pedestrian",
+	"color": "green",
+	"active": true
+}, {
+	"type": "Radfahrstreifen",
+	"designation": "bicycle",
+	"color": "green",
+	"active": true
+}, {
+	"type": "Gehweg, Radfahrer frei",
+	"designation": "pedestrian",
+	"color": "red",
+	"active": true
+}, {
+	"type": "Feld-Waldweg",
+	"designation": "outdoor",
+	"color": "saddlebrown",
+	"active": true
+}, {
+	"type": "getrennter Rad- und Fußweg (2 Richtungen)",
+	"designation": "bicycle",
+	"color": "green",
+	"active": true
+}, {
+	"type": "Verbindung ohne eigene RVanlage / Lückenschluss",
+	"designation": "unknown",
+	"color": "#666",
+	"active": false
+}, {
+	"type": "Betriebsweg MD-Kanal",
+	"designation": "outdoor",
+	"color": "chocolate",
+	"active": true
+}, {
+	"type": "Schutzstreifen",
+	"designation": "bicycle",
+	"color": "limegreen",
+	"active": true
+}, {
+	"type": "getrennter Rad- und Fußweg",
+	"designation": "bicycle",
+	"color": "green",
+	"active": true
+}, {
+	"type": "anderer Radweg",
+	"designation": "bicycle",
+	"color": "deepskyblue",
+	"active": true
+}, {
+	"type": "Unterführung",
+	"designation": "pedestrian",
+	"color": "blue",
+	"active": true
+}, {
+	"type": "Fahrradstraße",
+	"designation": "bicycle",
+	"color": "deeppink",
+	"active": true
+}, {
+	"type": "Einbahnstraße frei",
+	"designation": "car",
+	"color": "purple",
+	"active": true
+}, {
+	"type": "Radfahrstreifen in Gegenrichtung",
+	"designation": "bicycle",
+	"color": "green",
+	"active": true
+}, {
+	"type": "Fußgängerzone (Radfahrer frei)",
+	"designation": "pedestrian",
+	"color": "red",
+	"active": true
+}, {
+	"type": "2-Ri- Radweg  (auf Gehweg)",
+	"designation": "pedestrian",
+	"color": "red",
+	"active": true
+}, {
+	"type": "Mitbenutzung Busspur",
+	"designation": "car",
+	"color": "misc",
+	"active": true
+}, {
+	"type": "Unterführung mit Rampen",
+	"designation": "bicycle",
+	"color": "blue",
+	"active": true
+}, {
+	"type": "Sonstige",
+	"designation": "bicycle",
+	"color": "blue",
+	"active": true
+}, {
+	"type": "UNKNOWN",
+	"designation": "bicycle",
+	"color": "#FF00FF",
+	"active": true
+}]

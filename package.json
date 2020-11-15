@@ -1,0 +1,17 @@
+{
+  "name": "bicycle-data-fuerth",
+  "version": "1.0.0",
+  "description": "GEO-data Collection of bicycle data from the city of Fürth (Baveriy, Gemany)",
+  "main": "scripts/seperateGeoJson.js",
+  "scripts": {
+    "start": "node scripts/seperateGeoJson.js"
+  },
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "AGPL-3.0",
+  "dependencies": {},
+  "devDependencies": {
+    "fs-extra": "^9.0.1",
+    "ora": "^5.1.0",
+    "shapefile": "^0.6.6"
+  }
+}
