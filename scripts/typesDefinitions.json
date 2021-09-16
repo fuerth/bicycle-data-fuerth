@@ -49,6 +49,11 @@
 	"color": "green",
 	"active": true
 }, {
+	"type": "Gehweg Radfahrer frei",
+	"designation": "bicycle",
+	"color": "green",
+	"active": true
+}, {
 	"type": "anderer Radweg",
 	"designation": "bicycle",
 	"color": "deepskyblue",

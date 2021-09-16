@@ -2,6 +2,7 @@ const path = require('path');
 const fs = require('fs-extra');
 const shapefile = require("shapefile");
 const ora = require('ora');
+const gk = require('gauss-krueger')
 
 const TYPE_DEFINITIONS = require('./typesDefinitions.json');
 
@@ -97,6 +98,24 @@ async function shapeToGeojson(options) {
 		}
 		return feature;
 	});
+
+	// convert WGS to wgs84 (Only if data is in "DHDN_3_Degree_Gauss_Zone_4" format!)
+	geojson.features = geojson.features.map(feature => {
+		feature.geometry.coordinates = feature.geometry.coordinates.map(coordinates => {
+			const wgs = gk.toWGS({ x: coordinates[0], y: coordinates[1] });
+			return [
+				wgs.longitude,
+				wgs.latitude
+			];
+		})
+		return feature;
+	});
+	geojson.bbox = [
+		gk.toWGS({x: geojson.bbox[0], y: geojson.bbox[1]}).latitude,
+		gk.toWGS({x: geojson.bbox[0], y: geojson.bbox[1]}).longitude,
+		gk.toWGS({x: geojson.bbox[2], y: geojson.bbox[3]}).latitude,
+		gk.toWGS({x: geojson.bbox[2], y: geojson.bbox[3]}).longitude,
+	];
 
 	// generate seperate files for each destination
 	for (let designation of DESIGNATIONS) {

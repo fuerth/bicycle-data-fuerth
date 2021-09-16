@@ -11,6 +11,7 @@
   "dependencies": {},
   "devDependencies": {
     "fs-extra": "^9.0.1",
+    "gauss-krueger": "^1.0.1",
     "ora": "^5.1.0",
     "shapefile": "^0.6.6"
   }
